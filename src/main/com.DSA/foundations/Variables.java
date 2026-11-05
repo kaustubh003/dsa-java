@@ -1,4 +1,4 @@
-package com.DSA;
+package foundations;
 
 public class Variables {
 
