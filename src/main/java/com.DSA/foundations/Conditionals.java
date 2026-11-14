@@ -1,4 +1,4 @@
-package foundations;
+package com.DSA.foundations;
 
 public class Conditionals {
     public static void main(String[] args) {
