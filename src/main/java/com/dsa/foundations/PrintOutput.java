@@ -1,4 +1,4 @@
-package com.DSA.foundations;
+package com.dsa.foundations;
 
 public class PrintOutput {
     public static void main(String[] args) {

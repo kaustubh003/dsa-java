@@ -1,4 +1,4 @@
-package com.DSA.foundations;
+package com.dsa.foundations;
 
 import java.util.Scanner;
 
